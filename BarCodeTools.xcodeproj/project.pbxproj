@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		218C2760236AF9800054044E /* BarCodeTools.h in Headers */ = {isa = PBXBuildFile; fileRef = 218C275E236AF9800054044E /* BarCodeTools.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		218C2767236AFA010054044E /* BarcodeGenerator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 218C2766236AFA010054044E /* BarcodeGenerator.swift */; };
+		218C276E236B4A0E0054044E /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 218C276D236B4A0D0054044E /* LICENSE */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -16,6 +17,7 @@
 		218C275E236AF9800054044E /* BarCodeTools.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BarCodeTools.h; sourceTree = "<group>"; };
 		218C275F236AF9800054044E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		218C2766236AFA010054044E /* BarcodeGenerator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BarcodeGenerator.swift; sourceTree = "<group>"; };
+		218C276D236B4A0D0054044E /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +53,7 @@
 				218C2766236AFA010054044E /* BarcodeGenerator.swift */,
 				218C275E236AF9800054044E /* BarCodeTools.h */,
 				218C275F236AF9800054044E /* Info.plist */,
+				218C276D236B4A0D0054044E /* LICENSE */,
 			);
 			path = BarCodeTools;
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				218C276E236B4A0E0054044E /* LICENSE in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
